@@ -9,3 +9,6 @@ s
 
 
 gitstatus
+
+
+git diff
